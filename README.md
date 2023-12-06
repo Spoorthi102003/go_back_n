@@ -26,7 +26,7 @@ GBN is a practical approach of sliding window protocol.
 * Waiting time is pretty low.
 * Receiver is simple.
 
-# Reciever State Diagram And RTL
+# Sender State Diagram And RTL
 **State Diagram**
 ![image](https://github.com/Spoorthi102003/go_back_n/assets/143829280/cb2f909a-03ef-45a4-8a61-2155936c297b)
 
